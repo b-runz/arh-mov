@@ -1,0 +1,4032 @@
+[
+    {
+        "title": "Elementært",
+        "imdb_link": "tt15789038",
+        "imdb_rating": 7.1,
+        "cinemas": {
+            "12": {
+                "name": "CinemaxX Aarhus",
+                "id": 12,
+                "showing": {
+                    "tor, 06/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/4990",
+                            "time": "16:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/4993",
+                            "time": "17:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/11944",
+                            "time": "18:30"
+                        }
+                    ],
+                    "fre, 07/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58674",
+                            "time": "11:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5001",
+                            "time": "12:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58679",
+                            "time": "13:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5007",
+                            "time": "14:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58682",
+                            "time": "15:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5014",
+                            "time": "16:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58683",
+                            "time": "17:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/11946",
+                            "time": "14:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/11948",
+                            "time": "18:30"
+                        }
+                    ],
+                    "lør, 08/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5021",
+                            "time": "11:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5024",
+                            "time": "12:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5027",
+                            "time": "13:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5030",
+                            "time": "14:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5034",
+                            "time": "15:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5037",
+                            "time": "16:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5040",
+                            "time": "17:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/11950",
+                            "time": "14:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/11952",
+                            "time": "18:30"
+                        }
+                    ],
+                    "søn, 09/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58685",
+                            "time": "11:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5046",
+                            "time": "12:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58686",
+                            "time": "13:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5052",
+                            "time": "14:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58694",
+                            "time": "15:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5058",
+                            "time": "16:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58700",
+                            "time": "17:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/11954",
+                            "time": "14:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/11955",
+                            "time": "18:30"
+                        }
+                    ],
+                    "man, 10/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58706",
+                            "time": "11:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5068",
+                            "time": "12:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58712",
+                            "time": "13:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5074",
+                            "time": "14:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58718",
+                            "time": "15:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5079",
+                            "time": "16:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58725",
+                            "time": "17:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/11957",
+                            "time": "14:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/11959",
+                            "time": "18:30"
+                        }
+                    ],
+                    "tir, 11/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58727",
+                            "time": "11:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5088",
+                            "time": "12:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58731",
+                            "time": "13:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5094",
+                            "time": "14:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58734",
+                            "time": "15:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5100",
+                            "time": "16:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58737",
+                            "time": "17:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/11962",
+                            "time": "14:00"
+                        }
+                    ],
+                    "ons, 12/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58740",
+                            "time": "10:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5110",
+                            "time": "11:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5113",
+                            "time": "12:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5116",
+                            "time": "13:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5118",
+                            "time": "15:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5121",
+                            "time": "16:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5123",
+                            "time": "17:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5107",
+                            "time": "10:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/11966",
+                            "time": "18:15"
+                        }
+                    ]
+                }
+            },
+            "24": {
+                "name": "Nordisk Film Biografer Aarhus C",
+                "id": 24,
+                "showing": {
+                    "tor, 06/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/76604",
+                            "time": "15:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/76611",
+                            "time": "17:45"
+                        }
+                    ],
+                    "fre, 07/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/76628",
+                            "time": "11:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/84306",
+                            "time": "11:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/82952",
+                            "time": "13:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/76640",
+                            "time": "14:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/76655",
+                            "time": "15:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/84374",
+                            "time": "17:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/76664",
+                            "time": "18:00"
+                        }
+                    ],
+                    "lør, 08/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/76673",
+                            "time": "11:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/84317",
+                            "time": "11:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/76691",
+                            "time": "14:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/76698",
+                            "time": "15:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/76712",
+                            "time": "17:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/82961",
+                            "time": "18:00"
+                        }
+                    ],
+                    "søn, 09/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/76718",
+                            "time": "11:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/84379",
+                            "time": "12:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/82971",
+                            "time": "13:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/76730",
+                            "time": "14:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/84323",
+                            "time": "14:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/76739",
+                            "time": "15:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/76754",
+                            "time": "17:45"
+                        }
+                    ],
+                    "man, 10/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/76766",
+                            "time": "11:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/84334",
+                            "time": "11:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/76775",
+                            "time": "14:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/84389",
+                            "time": "14:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/76796",
+                            "time": "15:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/76808",
+                            "time": "17:45"
+                        }
+                    ],
+                    "tir, 11/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/76820",
+                            "time": "11:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/84398",
+                            "time": "11:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/82983",
+                            "time": "13:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/76829",
+                            "time": "14:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/84342",
+                            "time": "14:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/76841",
+                            "time": "16:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/76849",
+                            "time": "18:00"
+                        }
+                    ],
+                    "ons, 12/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/84353",
+                            "time": "11:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/76858",
+                            "time": "12:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/76865",
+                            "time": "13:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/76874",
+                            "time": "16:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/76882",
+                            "time": "18:00"
+                        }
+                    ]
+                }
+            },
+            "41": {
+                "name": "Nordisk Film Biografer Trøjborg",
+                "id": 41,
+                "showing": {
+                    "tor, 06/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/83954",
+                            "time": "16:45"
+                        }
+                    ],
+                    "fre, 07/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/80789",
+                            "time": "15:15"
+                        }
+                    ],
+                    "lør, 08/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/80794",
+                            "time": "11:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/80801",
+                            "time": "15:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/83967",
+                            "time": "16:45"
+                        }
+                    ],
+                    "søn, 09/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/80814",
+                            "time": "11:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/80823",
+                            "time": "13:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/80835",
+                            "time": "15:45"
+                        }
+                    ],
+                    "man, 10/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/80843",
+                            "time": "15:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/83981",
+                            "time": "16:45"
+                        }
+                    ],
+                    "tir, 11/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/80852",
+                            "time": "15:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/83993",
+                            "time": "16:45"
+                        }
+                    ],
+                    "ons, 12/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/80863",
+                            "time": "14:30"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 41,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/movie-posters/elementaertplakat.jpg?h=7881f276&itok=XtmKWSOl",
+        "release_date": "2023-07-05T22:00:00.000Z",
+        "display_release_date": "06. Jul. 2023"
+    },
+    {
+        "title": "Nostalgia",
+        "imdb_link": "tt14034614",
+        "imdb_rating": 6.8,
+        "cinemas": {
+            "55": {
+                "name": "Øst for Paradis",
+                "id": 55,
+                "showing": {
+                    "ons, 02/08": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5456",
+                            "time": "18:45"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 165,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/movie-posters/nostalgia_-_poster.jpg?h=0f612f9b&itok=KGsHliCf",
+        "release_date": "2023-07-05T22:00:00.000Z",
+        "display_release_date": "06. Jul. 2023"
+    },
+    {
+        "title": "Rosa - Det vilde søuhyre",
+        "imdb_link": "tt27155038",
+        "imdb_rating": 5.9,
+        "cinemas": {
+            "12": {
+                "name": "CinemaxX Aarhus",
+                "id": 12,
+                "showing": {
+                    "tor, 06/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/60398",
+                            "time": "17:00"
+                        }
+                    ],
+                    "fre, 07/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/60399",
+                            "time": "10:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/60401",
+                            "time": "11:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/60404",
+                            "time": "13:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/60405",
+                            "time": "13:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/60407",
+                            "time": "15:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/60408",
+                            "time": "17:00"
+                        }
+                    ],
+                    "lør, 08/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/60416",
+                            "time": "10:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/60413",
+                            "time": "11:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/60411",
+                            "time": "13:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/60417",
+                            "time": "13:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/60419",
+                            "time": "15:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/60420",
+                            "time": "17:00"
+                        }
+                    ],
+                    "søn, 09/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/60423",
+                            "time": "10:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/60425",
+                            "time": "11:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/60428",
+                            "time": "13:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/60429",
+                            "time": "13:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/60431",
+                            "time": "15:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/60432",
+                            "time": "17:00"
+                        }
+                    ],
+                    "man, 10/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/60435",
+                            "time": "10:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/60434",
+                            "time": "11:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/60437",
+                            "time": "13:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/60440",
+                            "time": "13:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/60441",
+                            "time": "15:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/60444",
+                            "time": "17:00"
+                        }
+                    ],
+                    "tir, 11/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/60449",
+                            "time": "10:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/60446",
+                            "time": "11:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/60450",
+                            "time": "13:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/60452",
+                            "time": "13:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/60453",
+                            "time": "15:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/60456",
+                            "time": "17:00"
+                        }
+                    ],
+                    "ons, 12/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/60455",
+                            "time": "12:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/60458",
+                            "time": "14:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/60459",
+                            "time": "16:15"
+                        }
+                    ]
+                }
+            },
+            "24": {
+                "name": "Nordisk Film Biografer Aarhus C",
+                "id": 24,
+                "showing": {
+                    "tor, 06/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/83998",
+                            "time": "15:45"
+                        }
+                    ],
+                    "fre, 07/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/84008",
+                            "time": "11:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/84020",
+                            "time": "13:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/84035",
+                            "time": "15:45"
+                        }
+                    ],
+                    "lør, 08/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/84045",
+                            "time": "11:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/84059",
+                            "time": "13:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/84065",
+                            "time": "15:45"
+                        }
+                    ],
+                    "søn, 09/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/84074",
+                            "time": "11:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/84089",
+                            "time": "13:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/84095",
+                            "time": "15:45"
+                        }
+                    ],
+                    "man, 10/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/84107",
+                            "time": "11:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/84118",
+                            "time": "13:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/84127",
+                            "time": "15:45"
+                        }
+                    ],
+                    "tir, 11/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/84137",
+                            "time": "11:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/84143",
+                            "time": "13:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/84158",
+                            "time": "15:45"
+                        }
+                    ],
+                    "ons, 12/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/84167",
+                            "time": "11:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/84179",
+                            "time": "14:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/84182",
+                            "time": "15:45"
+                        }
+                    ]
+                }
+            },
+            "41": {
+                "name": "Nordisk Film Biografer Trøjborg",
+                "id": 41,
+                "showing": {
+                    "fre, 07/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/85245",
+                            "time": "14:45"
+                        }
+                    ],
+                    "lør, 08/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/85247",
+                            "time": "11:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/85250",
+                            "time": "13:45"
+                        }
+                    ],
+                    "søn, 09/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/85252",
+                            "time": "11:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/85253",
+                            "time": "15:00"
+                        }
+                    ],
+                    "man, 10/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/85254",
+                            "time": "14:45"
+                        }
+                    ],
+                    "tir, 11/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/85256",
+                            "time": "14:45"
+                        }
+                    ],
+                    "ons, 12/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/85259",
+                            "time": "14:30"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 38,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/2023-06/rosaplakat.jpg?h=7881f276&itok=e0s4RY8n",
+        "release_date": "2023-06-28T22:00:00.000Z",
+        "display_release_date": "29. Jun. 2023"
+    },
+    {
+        "title": "Lad elven leve",
+        "imdb_link": "tt23638090",
+        "imdb_rating": 7.7,
+        "cinemas": {
+            "55": {
+                "name": "Øst for Paradis",
+                "id": 55,
+                "showing": {
+                    "tor, 06/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54507",
+                            "time": "18:00"
+                        }
+                    ],
+                    "fre, 07/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54510",
+                            "time": "14:05"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54513",
+                            "time": "18:00"
+                        }
+                    ],
+                    "lør, 08/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54511",
+                            "time": "14:05"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54516",
+                            "time": "18:00"
+                        }
+                    ],
+                    "søn, 09/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54519",
+                            "time": "14:05"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54520",
+                            "time": "18:00"
+                        }
+                    ],
+                    "man, 10/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54528",
+                            "time": "14:05"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54525",
+                            "time": "18:00"
+                        }
+                    ],
+                    "tir, 11/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54523",
+                            "time": "14:05"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54529",
+                            "time": "18:00"
+                        }
+                    ],
+                    "ons, 12/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54531",
+                            "time": "14:05"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54534",
+                            "time": "18:00"
+                        }
+                    ],
+                    "ons, 19/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5497",
+                            "time": "10:15"
+                        }
+                    ],
+                    "man, 24/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5500",
+                            "time": "18:30"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 124,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/movie-posters/lad_elven_leve_-_dansk_plakat.jpg?h=088d6449&itok=EEB1Uk8U",
+        "release_date": "2023-06-28T22:00:00.000Z",
+        "display_release_date": "29. Jun. 2023"
+    },
+    {
+        "title": "Toves værelse",
+        "imdb_link": "tt19623314",
+        "imdb_rating": 7.7,
+        "cinemas": {
+            "12": {
+                "name": "CinemaxX Aarhus",
+                "id": 12,
+                "showing": {
+                    "tor, 06/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58346",
+                            "time": "17:30"
+                        }
+                    ],
+                    "fre, 07/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58347",
+                            "time": "12:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58350",
+                            "time": "17:30"
+                        }
+                    ],
+                    "lør, 08/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58352",
+                            "time": "12:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58355",
+                            "time": "17:30"
+                        }
+                    ],
+                    "søn, 09/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58358",
+                            "time": "12:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58361",
+                            "time": "17:30"
+                        }
+                    ],
+                    "man, 10/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58364",
+                            "time": "12:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58365",
+                            "time": "17:30"
+                        }
+                    ],
+                    "tir, 11/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58368",
+                            "time": "12:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58370",
+                            "time": "17:30"
+                        }
+                    ],
+                    "ons, 12/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58373",
+                            "time": "12:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58374",
+                            "time": "17:45"
+                        }
+                    ]
+                }
+            },
+            "24": {
+                "name": "Nordisk Film Biografer Aarhus C",
+                "id": 24,
+                "showing": {
+                    "tor, 06/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70189",
+                            "time": "17:10"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70191",
+                            "time": "19:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70196",
+                            "time": "20:15"
+                        }
+                    ],
+                    "fre, 07/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70199",
+                            "time": "11:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70203",
+                            "time": "13:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70207",
+                            "time": "15:20"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70211",
+                            "time": "17:10"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70217",
+                            "time": "19:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70220",
+                            "time": "20:15"
+                        }
+                    ],
+                    "lør, 08/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70226",
+                            "time": "11:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70229",
+                            "time": "13:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70232",
+                            "time": "15:20"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70238",
+                            "time": "17:10"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70242",
+                            "time": "19:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70244",
+                            "time": "20:15"
+                        }
+                    ],
+                    "søn, 09/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70252",
+                            "time": "11:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70256",
+                            "time": "13:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70259",
+                            "time": "15:20"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70264",
+                            "time": "17:10"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70268",
+                            "time": "19:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70272",
+                            "time": "20:15"
+                        }
+                    ],
+                    "man, 10/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70280",
+                            "time": "11:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70277",
+                            "time": "13:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70286",
+                            "time": "15:20"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70290",
+                            "time": "17:10"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70295",
+                            "time": "19:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70358",
+                            "time": "20:15"
+                        }
+                    ],
+                    "tir, 11/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70366",
+                            "time": "11:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70367",
+                            "time": "13:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70373",
+                            "time": "15:20"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70371",
+                            "time": "17:10"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70378",
+                            "time": "19:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70382",
+                            "time": "20:15"
+                        }
+                    ],
+                    "ons, 12/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70388",
+                            "time": "11:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70392",
+                            "time": "13:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70400",
+                            "time": "16:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70396",
+                            "time": "19:00"
+                        }
+                    ]
+                }
+            },
+            "41": {
+                "name": "Nordisk Film Biografer Trøjborg",
+                "id": 41,
+                "showing": {
+                    "tor, 06/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/73556",
+                            "time": "16:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/73568",
+                            "time": "18:20"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/73580",
+                            "time": "20:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/73592",
+                            "time": "20:45"
+                        }
+                    ],
+                    "fre, 07/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/73602",
+                            "time": "14:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/73621",
+                            "time": "16:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/73634",
+                            "time": "18:20"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/73649",
+                            "time": "20:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/73661",
+                            "time": "20:45"
+                        }
+                    ],
+                    "lør, 08/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/73673",
+                            "time": "11:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/73683",
+                            "time": "14:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/73692",
+                            "time": "16:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/73715",
+                            "time": "18:20"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/73718",
+                            "time": "20:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/73727",
+                            "time": "20:45"
+                        }
+                    ],
+                    "søn, 09/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/73745",
+                            "time": "11:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/73757",
+                            "time": "14:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/73771",
+                            "time": "16:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/73791",
+                            "time": "18:20"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/73806",
+                            "time": "20:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/73810",
+                            "time": "20:45"
+                        }
+                    ],
+                    "man, 10/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/73830",
+                            "time": "14:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/73846",
+                            "time": "16:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/73853",
+                            "time": "18:20"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/73865",
+                            "time": "20:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/73877",
+                            "time": "20:45"
+                        }
+                    ],
+                    "tir, 11/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/73889",
+                            "time": "14:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/73905",
+                            "time": "16:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/73919",
+                            "time": "18:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/73930",
+                            "time": "20:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/73938",
+                            "time": "20:45"
+                        }
+                    ],
+                    "ons, 12/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/73958",
+                            "time": "14:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/73961",
+                            "time": "16:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/73974",
+                            "time": "18:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/73987",
+                            "time": "20:45"
+                        }
+                    ]
+                }
+            },
+            "55": {
+                "name": "Øst for Paradis",
+                "id": 55,
+                "showing": {
+                    "fre, 07/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54320",
+                            "time": "14:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/56679",
+                            "time": "15:40"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/56681",
+                            "time": "17:20"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54460",
+                            "time": "19:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54461",
+                            "time": "20:45"
+                        }
+                    ],
+                    "lør, 08/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54324",
+                            "time": "14:20"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54582",
+                            "time": "12:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54631",
+                            "time": "16:35"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/56682",
+                            "time": "17:20"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54462",
+                            "time": "19:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54463",
+                            "time": "20:45"
+                        }
+                    ],
+                    "søn, 09/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54327",
+                            "time": "14:20"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54583",
+                            "time": "12:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54609",
+                            "time": "16:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/56685",
+                            "time": "17:20"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54466",
+                            "time": "19:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54469",
+                            "time": "20:45"
+                        }
+                    ],
+                    "man, 10/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54332",
+                            "time": "14:20"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54635",
+                            "time": "16:35"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/56688",
+                            "time": "17:20"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54472",
+                            "time": "19:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54473",
+                            "time": "20:45"
+                        }
+                    ],
+                    "tir, 11/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54333",
+                            "time": "14:20"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54611",
+                            "time": "16:10"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/56690",
+                            "time": "17:20"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54475",
+                            "time": "19:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54478",
+                            "time": "20:45"
+                        }
+                    ],
+                    "ons, 12/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/4286",
+                            "time": "10:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54336",
+                            "time": "14:20"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54722",
+                            "time": "10:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54639",
+                            "time": "16:35"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/56691",
+                            "time": "17:20"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54479",
+                            "time": "19:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54482",
+                            "time": "20:45"
+                        }
+                    ],
+                    "tor, 06/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/56676",
+                            "time": "15:40"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/56678",
+                            "time": "16:35"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54455",
+                            "time": "18:35"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54457",
+                            "time": "20:55"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 2,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/movie-posters/tovesvaerelseplakat.jpg?h=7881f276&itok=UnG8Ndl2",
+        "release_date": "2023-06-21T22:00:00.000Z",
+        "display_release_date": "22. Jun. 2023"
+    },
+    {
+        "title": "Dalva",
+        "imdb_link": "tt19768016",
+        "imdb_rating": 7.7,
+        "cinemas": {
+            "55": {
+                "name": "Øst for Paradis",
+                "id": 55,
+                "showing": {
+                    "tir, 22/08": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5646",
+                            "time": "18:30"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 194,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/movie-posters/dalva_.jpg?h=38a6ba79&itok=xQTyB-SC",
+        "release_date": "2023-06-14T22:00:00.000Z",
+        "display_release_date": "15. Jun. 2023"
+    },
+    {
+        "title": "The Flash",
+        "imdb_link": "tt0439572",
+        "imdb_rating": 7.2,
+        "cinemas": {
+            "12": {
+                "name": "CinemaxX Aarhus",
+                "id": 12,
+                "showing": {
+                    "tor, 06/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58437",
+                            "time": "21:00"
+                        }
+                    ],
+                    "fre, 07/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58442",
+                            "time": "11:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58443",
+                            "time": "21:00"
+                        }
+                    ],
+                    "lør, 08/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58448",
+                            "time": "11:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58449",
+                            "time": "21:00"
+                        }
+                    ],
+                    "søn, 09/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58455",
+                            "time": "11:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58460",
+                            "time": "21:00"
+                        }
+                    ],
+                    "man, 10/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58466",
+                            "time": "11:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58467",
+                            "time": "21:00"
+                        }
+                    ],
+                    "tir, 11/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58475",
+                            "time": "11:00"
+                        }
+                    ],
+                    "ons, 12/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58478",
+                            "time": "20:45"
+                        }
+                    ]
+                }
+            },
+            "24": {
+                "name": "Nordisk Film Biografer Aarhus C",
+                "id": 24,
+                "showing": {
+                    "tor, 06/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/79121",
+                            "time": "20:30"
+                        }
+                    ],
+                    "fre, 07/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/82444",
+                            "time": "14:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/79129",
+                            "time": "20:30"
+                        }
+                    ],
+                    "lør, 08/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/79146",
+                            "time": "20:30"
+                        }
+                    ],
+                    "søn, 09/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/82458",
+                            "time": "17:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/79155",
+                            "time": "20:30"
+                        }
+                    ],
+                    "man, 10/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/79165",
+                            "time": "20:30"
+                        }
+                    ],
+                    "tir, 11/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/82471",
+                            "time": "20:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/79178",
+                            "time": "20:30"
+                        }
+                    ],
+                    "ons, 12/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/79190",
+                            "time": "20:30"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 5,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/movie-posters/the_flash_-_dansk_plakat.jpg?h=d87a047b&itok=y8Oz9UPl",
+        "release_date": "2023-06-13T22:00:00.000Z",
+        "display_release_date": "14. Jun. 2023"
+    },
+    {
+        "title": "Beit El Ruby",
+        "imdb_link": "tt27873958",
+        "imdb_rating": 7,
+        "cinemas": {
+            "24": {
+                "name": "Nordisk Film Biografer Aarhus C",
+                "id": 24,
+                "showing": {
+                    "søn, 09/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/84527",
+                            "time": "18:00"
+                        }
+                    ],
+                    "man, 10/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/84533",
+                            "time": "21:15"
+                        }
+                    ],
+                    "tir, 11/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/84538",
+                            "time": "18:45"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 489,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/2023-05/Kino-fallback-poster.png?h=6c02f54b&itok=14CuSSHm",
+        "release_date": "2023-06-13T22:00:00.000Z",
+        "display_release_date": "14. Jun. 2023"
+    },
+    {
+        "title": "Transformers 7: Rise of the Beasts",
+        "imdb_link": "tt509056",
+        "imdb_rating": "?",
+        "cinemas": {
+            "12": {
+                "name": "CinemaxX Aarhus",
+                "id": 12,
+                "showing": {
+                    "tor, 06/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/59076",
+                            "time": "16:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/59345",
+                            "time": "18:45"
+                        }
+                    ],
+                    "fre, 07/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/59079",
+                            "time": "10:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/59082",
+                            "time": "13:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/59081",
+                            "time": "16:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/59348",
+                            "time": "18:45"
+                        }
+                    ],
+                    "lør, 08/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/59087",
+                            "time": "10:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/59091",
+                            "time": "13:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/59093",
+                            "time": "16:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/59349",
+                            "time": "18:45"
+                        }
+                    ],
+                    "søn, 09/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/59097",
+                            "time": "10:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/59100",
+                            "time": "13:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/59105",
+                            "time": "16:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/59351",
+                            "time": "18:45"
+                        }
+                    ],
+                    "man, 10/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/59108",
+                            "time": "10:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/59109",
+                            "time": "13:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/59111",
+                            "time": "16:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/59354",
+                            "time": "18:45"
+                        }
+                    ],
+                    "tir, 11/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/59115",
+                            "time": "10:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/59118",
+                            "time": "13:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/59121",
+                            "time": "16:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/59355",
+                            "time": "18:45"
+                        }
+                    ],
+                    "ons, 12/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/59123",
+                            "time": "11:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/59124",
+                            "time": "14:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/59357",
+                            "time": "17:40"
+                        }
+                    ]
+                }
+            },
+            "24": {
+                "name": "Nordisk Film Biografer Aarhus C",
+                "id": 24,
+                "showing": {
+                    "tor, 06/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/82219",
+                            "time": "18:20"
+                        }
+                    ],
+                    "fre, 07/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/82226",
+                            "time": "11:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/75350",
+                            "time": "12:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/82232",
+                            "time": "15:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/82250",
+                            "time": "18:20"
+                        }
+                    ],
+                    "lør, 08/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/75355",
+                            "time": "11:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/80988",
+                            "time": "14:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/82258",
+                            "time": "15:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/82286",
+                            "time": "18:20"
+                        }
+                    ],
+                    "søn, 09/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/75369",
+                            "time": "11:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/82305",
+                            "time": "15:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/82315",
+                            "time": "18:20"
+                        }
+                    ],
+                    "man, 10/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/82334",
+                            "time": "11:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/75383",
+                            "time": "12:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/82352",
+                            "time": "15:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/82361",
+                            "time": "18:20"
+                        }
+                    ],
+                    "tir, 11/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/82373",
+                            "time": "11:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/75397",
+                            "time": "12:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/82379",
+                            "time": "15:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/82390",
+                            "time": "18:20"
+                        }
+                    ],
+                    "ons, 12/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/75410",
+                            "time": "11:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/82394",
+                            "time": "13:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/82402",
+                            "time": "18:20"
+                        }
+                    ]
+                }
+            },
+            "41": {
+                "name": "Nordisk Film Biografer Trøjborg",
+                "id": 41,
+                "showing": {
+                    "lør, 08/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/83768",
+                            "time": "14:30"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 6,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/movie-posters/transformers_rotb_-_plakat.jpg?h=99d542f5&itok=5AgGEm69",
+        "release_date": "2023-06-07T22:00:00.000Z",
+        "display_release_date": "08. Jun. 2023"
+    },
+    {
+        "title": "What's Love Got to Do with It?",
+        "imdb_link": "tt13430858",
+        "imdb_rating": 6.3,
+        "cinemas": {
+            "24": {
+                "name": "Nordisk Film Biografer Aarhus C",
+                "id": 24,
+                "showing": {
+                    "tor, 06/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/69847",
+                            "time": "18:00"
+                        }
+                    ],
+                    "lør, 08/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/69848",
+                            "time": "13:30"
+                        }
+                    ],
+                    "man, 10/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/69854",
+                            "time": "13:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/69856",
+                            "time": "18:00"
+                        }
+                    ],
+                    "tir, 11/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/69857",
+                            "time": "17:45"
+                        }
+                    ]
+                }
+            },
+            "41": {
+                "name": "Nordisk Film Biografer Trøjborg",
+                "id": 41,
+                "showing": {
+                    "tor, 06/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70355",
+                            "time": "20:15"
+                        }
+                    ],
+                    "fre, 07/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70356",
+                            "time": "14:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70361",
+                            "time": "17:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70364",
+                            "time": "20:15"
+                        }
+                    ],
+                    "lør, 08/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70368",
+                            "time": "12:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70370",
+                            "time": "14:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70376",
+                            "time": "20:15"
+                        }
+                    ],
+                    "søn, 09/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70379",
+                            "time": "14:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70385",
+                            "time": "16:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70390",
+                            "time": "18:15"
+                        }
+                    ],
+                    "man, 10/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70391",
+                            "time": "14:45"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70394",
+                            "time": "20:15"
+                        }
+                    ],
+                    "tir, 11/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70397",
+                            "time": "18:00"
+                        }
+                    ],
+                    "ons, 12/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70403",
+                            "time": "16:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70406",
+                            "time": "20:30"
+                        }
+                    ]
+                }
+            },
+            "55": {
+                "name": "Øst for Paradis",
+                "id": 55,
+                "showing": {
+                    "tor, 06/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54585",
+                            "time": "16:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54586",
+                            "time": "20:10"
+                        }
+                    ],
+                    "fre, 07/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54589",
+                            "time": "16:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54594",
+                            "time": "20:10"
+                        }
+                    ],
+                    "lør, 08/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54595",
+                            "time": "11:50"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54596",
+                            "time": "16:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54601",
+                            "time": "20:10"
+                        }
+                    ],
+                    "søn, 09/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54607",
+                            "time": "11:50"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54612",
+                            "time": "20:10"
+                        }
+                    ],
+                    "man, 10/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54614",
+                            "time": "16:00"
+                        }
+                    ],
+                    "tir, 11/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54628",
+                            "time": "16:00"
+                        }
+                    ],
+                    "ons, 12/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54624",
+                            "time": "16:00"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 10,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/movie-posters/whats_love_got_to_do_with_it_1.jpg?h=7881f276&itok=o5_pGkZs",
+        "release_date": "2023-05-24T22:00:00.000Z",
+        "display_release_date": "25. May. 2023"
+    },
+    {
+        "title": "Brevet fra Helga",
+        "imdb_link": "tt13368662",
+        "imdb_rating": 7.2,
+        "cinemas": {
+            "12": {
+                "name": "CinemaxX Aarhus",
+                "id": 12,
+                "showing": {
+                    "lør, 26/08": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/10272",
+                            "time": "19:00"
+                        }
+                    ],
+                    "søn, 27/08": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/10274",
+                            "time": "15:00"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 212,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/movie-posters/brevetfrahelgaplakat.jpg?h=7881f276&itok=xPw82fhH",
+        "release_date": "2023-05-17T22:00:00.000Z",
+        "display_release_date": "18. May. 2023"
+    },
+    {
+        "title": "Living",
+        "imdb_link": "tt9051908",
+        "imdb_rating": 7.3,
+        "cinemas": {
+            "55": {
+                "name": "Øst for Paradis",
+                "id": 55,
+                "showing": {
+                    "fre, 07/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54492",
+                            "time": "14:05"
+                        }
+                    ],
+                    "lør, 08/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54493",
+                            "time": "14:05"
+                        }
+                    ],
+                    "søn, 09/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54498",
+                            "time": "14:05"
+                        }
+                    ],
+                    "man, 10/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54499",
+                            "time": "14:05"
+                        }
+                    ],
+                    "tir, 11/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54501",
+                            "time": "14:05"
+                        }
+                    ],
+                    "ons, 12/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54504",
+                            "time": "14:05"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 152,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/movie-posters/living_-_dansk_plakat.jpg?h=99d542f5&itok=aXQvfq19",
+        "release_date": "2023-05-03T22:00:00.000Z",
+        "display_release_date": "04. May. 2023"
+    },
+    {
+        "title": "Close",
+        "imdb_link": "tt9660502",
+        "imdb_rating": 7.8,
+        "cinemas": {
+            "41": {
+                "name": "Nordisk Film Biografer Trøjborg",
+                "id": 41,
+                "showing": {
+                    "tor, 06/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/69840",
+                            "time": "18:00"
+                        }
+                    ],
+                    "lør, 08/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/69845",
+                            "time": "18:15"
+                        }
+                    ],
+                    "man, 10/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/69851",
+                            "time": "17:45"
+                        }
+                    ],
+                    "ons, 12/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/69849",
+                            "time": "18:00"
+                        }
+                    ]
+                }
+            },
+            "55": {
+                "name": "Øst for Paradis",
+                "id": 55,
+                "showing": {
+                    "tor, 06/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54229",
+                            "time": "16:25"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54235",
+                            "time": "18:40"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54240",
+                            "time": "20:50"
+                        }
+                    ],
+                    "fre, 07/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54244",
+                            "time": "14:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54246",
+                            "time": "16:25"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54252",
+                            "time": "18:40"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54255",
+                            "time": "20:50"
+                        }
+                    ],
+                    "lør, 08/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54260",
+                            "time": "14:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54265",
+                            "time": "16:25"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54269",
+                            "time": "18:40"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54274",
+                            "time": "20:50"
+                        }
+                    ],
+                    "søn, 09/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54279",
+                            "time": "14:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54283",
+                            "time": "16:25"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54287",
+                            "time": "18:40"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54289",
+                            "time": "20:50"
+                        }
+                    ],
+                    "man, 10/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54293",
+                            "time": "14:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54300",
+                            "time": "16:25"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54301",
+                            "time": "18:40"
+                        }
+                    ],
+                    "tir, 11/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54304",
+                            "time": "14:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54306",
+                            "time": "16:25"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54309",
+                            "time": "18:40"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54312",
+                            "time": "20:50"
+                        }
+                    ],
+                    "ons, 12/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54318",
+                            "time": "14:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54322",
+                            "time": "16:25"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54325",
+                            "time": "18:40"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54330",
+                            "time": "20:50"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 102,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/movie-posters/close_-_dansk_plakat.jpg?h=38a6ba79&itok=bOiPqs6f",
+        "release_date": "2023-04-26T22:00:00.000Z",
+        "display_release_date": "27. Apr. 2023"
+    },
+    {
+        "title": "TFD23: Irgendwann werden wir uns alles erzählen",
+        "imdb_link": "tt2165439",
+        "imdb_rating": "?",
+        "cinemas": {
+            "55": {
+                "name": "Øst for Paradis",
+                "id": 55,
+                "showing": {
+                    "lør, 08/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5423",
+                            "time": "14:30"
+                        }
+                    ],
+                    "søn, 09/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5426",
+                            "time": "14:30"
+                        }
+                    ],
+                    "man, 10/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5430",
+                            "time": "14:30"
+                        }
+                    ],
+                    "tir, 11/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5433",
+                            "time": "14:30"
+                        }
+                    ],
+                    "ons, 12/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5436",
+                            "time": "14:30"
+                        }
+                    ],
+                    "tor, 13/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5439",
+                            "time": "14:30"
+                        }
+                    ],
+                    "fre, 14/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5443",
+                            "time": "14:30"
+                        }
+                    ],
+                    "lør, 15/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5446",
+                            "time": "14:30"
+                        }
+                    ],
+                    "søn, 16/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5449",
+                            "time": "14:30"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 178,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/movie-posters/TyskeFilmdage2023.hd_2.jpg?h=71adfcf0&itok=5IkpALeP",
+        "release_date": "2023-04-25T22:00:00.000Z",
+        "display_release_date": "26. Apr. 2023"
+    },
+    {
+        "title": "Beau is Afraid",
+        "imdb_link": "tt13521006",
+        "imdb_rating": 6.9,
+        "cinemas": {
+            "55": {
+                "name": "Øst for Paradis",
+                "id": 55,
+                "showing": {
+                    "tor, 06/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54641",
+                            "time": "20:30"
+                        }
+                    ],
+                    "fre, 07/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54643",
+                            "time": "20:30"
+                        }
+                    ],
+                    "lør, 08/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54645",
+                            "time": "20:30"
+                        }
+                    ],
+                    "søn, 09/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54646",
+                            "time": "20:30"
+                        }
+                    ],
+                    "man, 10/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54647",
+                            "time": "20:30"
+                        }
+                    ],
+                    "tir, 11/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54649",
+                            "time": "20:30"
+                        }
+                    ],
+                    "ons, 12/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54651",
+                            "time": "20:30"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 163,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/movie-posters/beau_is_afraid.jpg?h=37483b5c&itok=g3SsxUtn",
+        "release_date": "2023-04-19T22:00:00.000Z",
+        "display_release_date": "20. Apr. 2023"
+    },
+    {
+        "title": "Viften",
+        "imdb_link": "tt26242228",
+        "imdb_rating": 7.6,
+        "cinemas": {
+            "55": {
+                "name": "Øst for Paradis",
+                "id": 55,
+                "showing": {
+                    "lør, 08/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54339",
+                            "time": "12:10"
+                        }
+                    ],
+                    "søn, 09/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54342",
+                            "time": "12:10"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 166,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/movie-posters/viftenplakat.jpg?h=7881f276&itok=pFOOAoXm",
+        "release_date": "2023-04-19T22:00:00.000Z",
+        "display_release_date": "20. Apr. 2023"
+    },
+    {
+        "title": "Egetræets hjerte",
+        "imdb_link": "tt10368758",
+        "imdb_rating": 7.5,
+        "cinemas": {
+            "55": {
+                "name": "Øst for Paradis",
+                "id": 55,
+                "showing": {
+                    "lør, 08/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54684",
+                            "time": "12:15"
+                        }
+                    ],
+                    "søn, 09/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54687",
+                            "time": "12:15"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 167,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/movie-posters/egetraeets_hjerte_-_dansk_plakat.jpg?h=7d48ec89&itok=UkZ7UoQs",
+        "release_date": "2023-04-19T22:00:00.000Z",
+        "display_release_date": "20. Apr. 2023"
+    },
+    {
+        "title": "Underverden 2",
+        "imdb_link": "tt20204996",
+        "imdb_rating": 7,
+        "cinemas": {
+            "24": {
+                "name": "Nordisk Film Biografer Aarhus C",
+                "id": 24,
+                "showing": {
+                    "fre, 07/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/71083",
+                            "time": "21:30"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 55,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/movie-posters/underverden2plakat2.jpg?h=7881f276&itok=-8n4brrB",
+        "release_date": "2023-04-12T22:00:00.000Z",
+        "display_release_date": "13. Apr. 2023"
+    },
+    {
+        "title": "Stille liv",
+        "imdb_link": "tt9861230",
+        "imdb_rating": 6.7,
+        "cinemas": {
+            "55": {
+                "name": "Øst for Paradis",
+                "id": 55,
+                "showing": {
+                    "tor, 06/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54652",
+                            "time": "19:05"
+                        }
+                    ],
+                    "fre, 07/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54654",
+                            "time": "19:05"
+                        }
+                    ],
+                    "lør, 08/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54653",
+                            "time": "19:05"
+                        }
+                    ],
+                    "søn, 09/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54657",
+                            "time": "19:05"
+                        }
+                    ],
+                    "man, 10/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54658",
+                            "time": "19:05"
+                        }
+                    ],
+                    "tir, 11/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54661",
+                            "time": "19:05"
+                        }
+                    ],
+                    "ons, 12/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54663",
+                            "time": "19:05"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 162,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/movie-posters/stillelivplakat.jpg?h=7881f276&itok=uTgCT5B-",
+        "release_date": "2023-04-12T22:00:00.000Z",
+        "display_release_date": "13. Apr. 2023"
+    },
+    {
+        "title": "Super Mario Bros. Filmen",
+        "imdb_link": "tt6718170",
+        "imdb_rating": 7.1,
+        "cinemas": {
+            "12": {
+                "name": "CinemaxX Aarhus",
+                "id": 12,
+                "showing": {
+                    "tor, 06/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58565",
+                            "time": "16:45"
+                        }
+                    ],
+                    "fre, 07/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58568",
+                            "time": "11:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58569",
+                            "time": "16:45"
+                        }
+                    ],
+                    "lør, 08/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58572",
+                            "time": "11:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58574",
+                            "time": "16:45"
+                        }
+                    ],
+                    "søn, 09/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58577",
+                            "time": "11:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58580",
+                            "time": "16:45"
+                        }
+                    ],
+                    "man, 10/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58581",
+                            "time": "11:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58584",
+                            "time": "16:45"
+                        }
+                    ],
+                    "tir, 11/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58586",
+                            "time": "11:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58589",
+                            "time": "16:45"
+                        }
+                    ],
+                    "ons, 12/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/58590",
+                            "time": "16:45"
+                        }
+                    ]
+                }
+            },
+            "24": {
+                "name": "Nordisk Film Biografer Aarhus C",
+                "id": 24,
+                "showing": {
+                    "tor, 06/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/71830",
+                            "time": "16:00"
+                        }
+                    ],
+                    "fre, 07/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/71831",
+                            "time": "11:30"
+                        }
+                    ],
+                    "lør, 08/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/71838",
+                            "time": "11:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/71847",
+                            "time": "16:00"
+                        }
+                    ],
+                    "søn, 09/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/71861",
+                            "time": "11:30"
+                        }
+                    ],
+                    "man, 10/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/71876",
+                            "time": "11:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/71891",
+                            "time": "16:00"
+                        }
+                    ],
+                    "tir, 11/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/71906",
+                            "time": "11:30"
+                        }
+                    ],
+                    "ons, 12/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/71920",
+                            "time": "11:30"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 11,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/movie-posters/super_mario_bros_filmen_-_dansk_plakat.jpg?h=32e4e499&itok=ougGdGKd",
+        "release_date": "2023-04-05T22:00:00.000Z",
+        "display_release_date": "06. Apr. 2023"
+    },
+    {
+        "title": "The Quiet Girl",
+        "imdb_link": "tt15109082",
+        "imdb_rating": 7.7,
+        "cinemas": {
+            "55": {
+                "name": "Øst for Paradis",
+                "id": 55,
+                "showing": {
+                    "fre, 07/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54630",
+                            "time": "16:35"
+                        }
+                    ],
+                    "søn, 09/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54633",
+                            "time": "16:35"
+                        }
+                    ],
+                    "tir, 11/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54637",
+                            "time": "16:35"
+                        }
+                    ],
+                    "ons, 26/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5472",
+                            "time": "18:45"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 160,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/movie-posters/the_quiet_girl_-_dansk_plakat.jpg?h=8f391919&itok=XCQGKjs7",
+        "release_date": "2023-04-04T22:00:00.000Z",
+        "display_release_date": "05. Apr. 2023"
+    },
+    {
+        "title": "Twice Colonized",
+        "imdb_link": "tt2052113",
+        "imdb_rating": "?",
+        "cinemas": {
+            "55": {
+                "name": "Øst for Paradis",
+                "id": 55,
+                "showing": {
+                    "ons, 26/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5463",
+                            "time": "18:30"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 179,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/movie-posters/twice_colonized_-_dansk_plakat.jpg?h=50bbb33b&itok=Ix-jx2u5",
+        "release_date": "2023-03-29T22:00:00.000Z",
+        "display_release_date": "30. Mar. 2023"
+    },
+    {
+        "title": "The Fabelmans",
+        "imdb_link": "tt14208870",
+        "imdb_rating": 7.6,
+        "cinemas": {
+            "41": {
+                "name": "Nordisk Film Biografer Trøjborg",
+                "id": 41,
+                "showing": {
+                    "søn, 09/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/69732",
+                            "time": "20:15"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 422,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/movie-posters/fabelmansdanskplakat.jpg?h=7881f276&itok=xPR9uph5",
+        "release_date": "2023-03-22T23:00:00.000Z",
+        "display_release_date": "23. Mar. 2023"
+    },
+    {
+        "title": "Babylon",
+        "imdb_link": "tt10640346",
+        "imdb_rating": 7.2,
+        "cinemas": {
+            "41": {
+                "name": "Nordisk Film Biografer Trøjborg",
+                "id": 41,
+                "showing": {
+                    "tir, 11/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/69750",
+                            "time": "14:45"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 483,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/movie-posters/babylon_-_dansk_plakat.jpg?h=7881f276&itok=-jQfbBp4",
+        "release_date": "2023-01-18T23:00:00.000Z",
+        "display_release_date": "19. Jan. 2023"
+    },
+    {
+        "title": "Vanskabte land",
+        "imdb_link": "tt19623228",
+        "imdb_rating": 7.2,
+        "cinemas": {
+            "55": {
+                "name": "Øst for Paradis",
+                "id": 55,
+                "showing": {
+                    "man, 17/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5414",
+                            "time": "18:30"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 177,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/movie-posters/vanskabte_land_-_dansk_plakat.jpg?h=7881f276&itok=u_A2r2xH",
+        "release_date": "2022-11-30T23:00:00.000Z",
+        "display_release_date": "01. Dec. 2022"
+    },
+    {
+        "title": "Fædre og mødre",
+        "imdb_link": "tt15964414",
+        "imdb_rating": 6,
+        "cinemas": {
+            "41": {
+                "name": "Nordisk Film Biografer Trøjborg",
+                "id": 41,
+                "showing": {
+                    "tor, 06/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/69697",
+                            "time": "17:45"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 478,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/movie-posters/faedreogmoedrenyplakat.jpg?h=7881f276&itok=NgQqJlJt",
+        "release_date": "2022-11-02T23:00:00.000Z",
+        "display_release_date": "03. Nov. 2022"
+    },
+    {
+        "title": "Hvor flodkrebsene synger",
+        "imdb_link": "tt9411972",
+        "imdb_rating": 7.2,
+        "cinemas": {
+            "41": {
+                "name": "Nordisk Film Biografer Trøjborg",
+                "id": 41,
+                "showing": {
+                    "fre, 07/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/69689",
+                            "time": "18:00"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 475,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/movie-posters/hvor_flodkrebsene_synger.jpg?h=7881f276&itok=D_3QUyYF",
+        "release_date": "2022-09-28T22:00:00.000Z",
+        "display_release_date": "29. Sep. 2022"
+    },
+    {
+        "title": "Moonrise Kingdom",
+        "imdb_link": "tt1748122",
+        "imdb_rating": 7.8,
+        "cinemas": {
+            "55": {
+                "name": "Øst for Paradis",
+                "id": 55,
+                "showing": {
+                    "tir, 15/08": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5624",
+                            "time": "18:30"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 192,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/movie-posters/moonriseplakat.jpg?h=ca06f8bb&itok=Oa2dSvRE",
+        "release_date": "2012-09-12T22:00:00.000Z",
+        "display_release_date": "13. Sep. 2012"
+    },
+    {
+        "title": "Heftig og begejstret",
+        "imdb_link": "",
+        "imdb_rating": "?",
+        "cinemas": {
+            "55": {
+                "name": "Øst for Paradis",
+                "id": 55,
+                "showing": {
+                    "ons, 19/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5339",
+                            "time": "18:45"
+                        }
+                    ],
+                    "lør, 22/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5342",
+                            "time": "14:30"
+                        }
+                    ],
+                    "søn, 30/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5344",
+                            "time": "16:30"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 171,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/2023-05/Kino-fallback-poster.png?h=6c02f54b&itok=14CuSSHm",
+        "release_date": "2012-01-10T23:00:00.000Z",
+        "display_release_date": "11. Jan. 2012"
+    },
+    {
+        "title": "EN KAT I PARIS",
+        "imdb_link": "",
+        "imdb_rating": "?",
+        "cinemas": {
+            "55": {
+                "name": "Øst for Paradis",
+                "id": 55,
+                "showing": {
+                    "søn, 27/08": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5361",
+                            "time": "14:00"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 174,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/2023-05/Kino-fallback-poster.png?h=6c02f54b&itok=14CuSSHm",
+        "release_date": "2012-01-10T23:00:00.000Z",
+        "display_release_date": "11. Jan. 2012"
+    },
+    {
+        "title": "Sambizanga - Filmuni morgen",
+        "imdb_link": "",
+        "imdb_rating": "?",
+        "cinemas": {
+            "24": {
+                "name": "Nordisk Film Biografer Aarhus C",
+                "id": 24,
+                "showing": {
+                    "søn, 06/08": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/69929",
+                            "time": "11:30"
+                        }
+                    ]
+                }
+            },
+            "41": {
+                "name": "Nordisk Film Biografer Trøjborg",
+                "id": 41,
+                "showing": {
+                    "søn, 06/08": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/70004",
+                            "time": "14:00"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 424,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/movie-posters/43938_1080px.jpg?h=cac013b5&itok=c6BN9EZb",
+        "release_date": "2012-01-10T23:00:00.000Z",
+        "display_release_date": "11. Jan. 2012"
+    },
+    {
+        "title": "Panik i nåleparken - American Dreamers",
+        "imdb_link": "",
+        "imdb_rating": "?",
+        "cinemas": {
+            "41": {
+                "name": "Nordisk Film Biografer Trøjborg",
+                "id": 41,
+                "showing": {
+                    "lør, 26/08": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/81171",
+                            "time": "16:00"
+                        }
+                    ],
+                    "søn, 27/08": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/81185",
+                            "time": "16:00"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 431,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/movie-posters/44149_1080px.jpg?h=fb96447a&itok=RFWmS9-c",
+        "release_date": "2012-01-10T23:00:00.000Z",
+        "display_release_date": "11. Jan. 2012"
+    },
+    {
+        "title": "Sugarland Express - American Dreamers",
+        "imdb_link": "",
+        "imdb_rating": "?",
+        "cinemas": {
+            "24": {
+                "name": "Nordisk Film Biografer Aarhus C",
+                "id": 24,
+                "showing": {
+                    "lør, 19/08": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/84164",
+                            "time": "20:00"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 434,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/movie-posters/44139_1080px.jpg?h=5330aaa2&itok=GFLWR5_Z",
+        "release_date": "2012-01-10T23:00:00.000Z",
+        "display_release_date": "11. Jan. 2012"
+    },
+    {
+        "title": "CHIHIRO OG HEKSENE",
+        "imdb_link": "",
+        "imdb_rating": "?",
+        "cinemas": {
+            "55": {
+                "name": "Øst for Paradis",
+                "id": 55,
+                "showing": {
+                    "søn, 24/09": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5354",
+                            "time": "14:00"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 173,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/2023-05/Kino-fallback-poster.png?h=6c02f54b&itok=14CuSSHm",
+        "release_date": "2012-01-09T23:00:00.000Z",
+        "display_release_date": "10. Jan. 2012"
+    },
+    {
+        "title": "Sikke et Cirkus",
+        "imdb_link": "",
+        "imdb_rating": "?",
+        "cinemas": {
+            "12": {
+                "name": "CinemaxX Aarhus",
+                "id": 12,
+                "showing": {
+                    "fre, 07/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/57699",
+                            "time": "10:30"
+                        }
+                    ],
+                    "lør, 08/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/57702",
+                            "time": "10:30"
+                        }
+                    ],
+                    "søn, 09/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/57704",
+                            "time": "10:30"
+                        }
+                    ],
+                    "man, 10/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/57705",
+                            "time": "10:30"
+                        }
+                    ],
+                    "tir, 11/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/57707",
+                            "time": "10:30"
+                        }
+                    ],
+                    "ons, 12/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/57710",
+                            "time": "10:30"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 455,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/2023-05/Kino-fallback-poster.png?h=6c02f54b&itok=14CuSSHm",
+        "release_date": "2012-01-09T23:00:00.000Z",
+        "display_release_date": "10. Jan. 2012"
+    },
+    {
+        "title": "GÅ OG SE",
+        "imdb_link": "",
+        "imdb_rating": "?",
+        "cinemas": {
+            "55": {
+                "name": "Øst for Paradis",
+                "id": 55,
+                "showing": {
+                    "tir, 01/08": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5594",
+                            "time": "21:15"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 189,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/2023-05/Kino-fallback-poster.png?h=6c02f54b&itok=14CuSSHm",
+        "release_date": "2012-01-07T23:00:00.000Z",
+        "display_release_date": "08. Jan. 2012"
+    },
+    {
+        "title": "Metallica M72 World Tour Live from TX #1",
+        "imdb_link": "",
+        "imdb_rating": "?",
+        "cinemas": {
+            "12": {
+                "name": "CinemaxX Aarhus",
+                "id": 12,
+                "showing": {
+                    "lør, 19/08": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/11902",
+                            "time": "16:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/11904",
+                            "time": "20:00"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 353,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/2023-05/Kino-fallback-poster.png?h=6c02f54b&itok=14CuSSHm",
+        "release_date": "2012-01-07T23:00:00.000Z",
+        "display_release_date": "08. Jan. 2012"
+    },
+    {
+        "title": "Metallica M72 World Tour Live from TX #2",
+        "imdb_link": "",
+        "imdb_rating": "?",
+        "cinemas": {
+            "12": {
+                "name": "CinemaxX Aarhus",
+                "id": 12,
+                "showing": {
+                    "man, 21/08": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/11915",
+                            "time": "16:30"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/11917",
+                            "time": "20:00"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 354,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/2023-05/Kino-fallback-poster.png?h=6c02f54b&itok=14CuSSHm",
+        "release_date": "2012-01-07T23:00:00.000Z",
+        "display_release_date": "08. Jan. 2012"
+    },
+    {
+        "title": "bObles Barsels Break (2D)",
+        "imdb_link": "",
+        "imdb_rating": "?",
+        "cinemas": {
+            "41": {
+                "name": "Nordisk Film Biografer Trøjborg",
+                "id": 41,
+                "showing": {
+                    "tir, 24/10": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/69675",
+                            "time": "10:00"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 419,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/2023-05/Kino-fallback-poster.png?h=6c02f54b&itok=14CuSSHm",
+        "release_date": "2012-01-07T23:00:00.000Z",
+        "display_release_date": "08. Jan. 2012"
+    },
+    {
+        "title": "Suite Dilation - Aarhus Jazz Festival",
+        "imdb_link": "",
+        "imdb_rating": "?",
+        "cinemas": {
+            "55": {
+                "name": "Øst for Paradis",
+                "id": 55,
+                "showing": {
+                    "man, 10/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5535",
+                            "time": "19:30"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 183,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/2023-05/Kino-fallback-poster.png?h=6c02f54b&itok=14CuSSHm",
+        "release_date": "2012-01-06T23:00:00.000Z",
+        "display_release_date": "07. Jan. 2012"
+    },
+    {
+        "title": "BERYGTET",
+        "imdb_link": "",
+        "imdb_rating": "?",
+        "cinemas": {
+            "55": {
+                "name": "Øst for Paradis",
+                "id": 55,
+                "showing": {
+                    "tir, 18/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5554",
+                            "time": "18:30"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 186,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/2023-05/Kino-fallback-poster.png?h=6c02f54b&itok=14CuSSHm",
+        "release_date": "2012-01-06T23:00:00.000Z",
+        "display_release_date": "07. Jan. 2012"
+    },
+    {
+        "title": "OMSTIGNING TIL PARADIS",
+        "imdb_link": "",
+        "imdb_rating": "?",
+        "cinemas": {
+            "55": {
+                "name": "Øst for Paradis",
+                "id": 55,
+                "showing": {
+                    "tir, 25/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5577",
+                            "time": "18:30"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 187,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/2023-05/Kino-fallback-poster.png?h=6c02f54b&itok=14CuSSHm",
+        "release_date": "2012-01-06T23:00:00.000Z",
+        "display_release_date": "07. Jan. 2012"
+    },
+    {
+        "title": "Cowboy, indianer og hest - filmen",
+        "imdb_link": "tt1433540",
+        "imdb_rating": 7.4,
+        "cinemas": {
+            "12": {
+                "name": "CinemaxX Aarhus",
+                "id": 12,
+                "showing": {}
+            }
+        },
+        "id": 570,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/media/film/c/co/cowboy-indianer-hest/plakatcowboyny.jpg?h=ca06f8bb&itok=VRfxL6s2",
+        "release_date": "2011-06-29T22:00:00.000Z",
+        "display_release_date": "30. Jun. 2011"
+    },
+    {
+        "title": "The Big Lebowski (1998)",
+        "imdb_link": "tt0118715",
+        "imdb_rating": 8.1,
+        "cinemas": {
+            "55": {
+                "name": "Øst for Paradis",
+                "id": 55,
+                "showing": {
+                    "man, 21/08": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5638",
+                            "time": "18:30"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 193,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/movie-posters/biglebowskiplakat.jpg?h=ca06f8bb&itok=I9xjoE6S",
+        "release_date": "1969-11-10T23:00:00.000Z",
+        "display_release_date": "11. Nov. 1969"
+    },
+    {
+        "title": "Carmen - Ønskefilm",
+        "imdb_link": "tt0085297",
+        "imdb_rating": 7.5,
+        "cinemas": {
+            "55": {
+                "name": "Øst for Paradis",
+                "id": 55,
+                "showing": {
+                    "tir, 15/08": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5631",
+                            "time": "20:45"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 74,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/2023-05/Kino-fallback-poster.png?h=6c02f54b&itok=14CuSSHm",
+        "release_date": "1599-12-31T23:09:40.000Z",
+        "display_release_date": "01. Jan. 1600"
+    },
+    {
+        "title": "CPH:DOX 23 - programlaunch: Fantastic Machine",
+        "imdb_link": null,
+        "imdb_rating": "?",
+        "cinemas": {
+            "55": {
+                "name": "Øst for Paradis",
+                "id": 55,
+                "showing": {
+                    "tor, 06/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54538",
+                            "time": "18:15"
+                        }
+                    ],
+                    "fre, 07/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54540",
+                            "time": "14:05"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54543",
+                            "time": "18:15"
+                        }
+                    ],
+                    "lør, 08/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54544",
+                            "time": "14:05"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54546",
+                            "time": "18:15"
+                        }
+                    ],
+                    "søn, 09/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54547",
+                            "time": "14:05"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54549",
+                            "time": "18:15"
+                        }
+                    ],
+                    "man, 10/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54552",
+                            "time": "14:05"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54553",
+                            "time": "18:15"
+                        }
+                    ],
+                    "tir, 11/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54555",
+                            "time": "14:05"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54556",
+                            "time": "18:15"
+                        }
+                    ],
+                    "ons, 12/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54558",
+                            "time": "14:05"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54561",
+                            "time": "18:15"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 151,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/movie-posters/Programlaunch-2023.hd.jpg?itok=I0lAIg7a",
+        "release_date": null,
+        "display_release_date": "Invalid date"
+    },
+    {
+        "title": "8 kvinder - Film, tapas & cocktails",
+        "imdb_link": "tt028383",
+        "imdb_rating": "?",
+        "cinemas": {
+            "24": {
+                "name": "Nordisk Film Biografer Aarhus C",
+                "id": 24,
+                "showing": {
+                    "man, 21/08": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/84272",
+                            "time": "20:00"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 435,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/movie-posters/10247_1080px.jpg?h=ac46ad6b&itok=ETXgi66l",
+        "release_date": "1969-11-10T23:00:00.000Z",
+        "display_release_date": "11. Nov. 1969"
+    },
+    {
+        "title": "The Medium - Operafilm",
+        "imdb_link": "tt004379",
+        "imdb_rating": "?",
+        "cinemas": {
+            "41": {
+                "name": "Nordisk Film Biografer Trøjborg",
+                "id": 41,
+                "showing": {
+                    "søn, 09/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/69716",
+                            "time": "12:00"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 486,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/movie-posters/44338_1080px.jpg?h=da3b9436&itok=fRWOrCnH",
+        "release_date": "1969-11-10T23:00:00.000Z",
+        "display_release_date": "11. Nov. 1969"
+    },
+    {
+        "title": "Mission: Impossible 7 - Dead Reckoning Part One",
+        "imdb_link": "tt9603212",
+        "imdb_rating": "?",
+        "cinemas": {
+            "12": {
+                "name": "CinemaxX Aarhus",
+                "id": 12,
+                "showing": {
+                    "tor, 06/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/60135",
+                            "time": "19:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/60141",
+                            "time": "21:30"
+                        }
+                    ],
+                    "fre, 07/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/60150",
+                            "time": "19:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/60152",
+                            "time": "21:30"
+                        }
+                    ],
+                    "lør, 08/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/60155",
+                            "time": "19:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/60159",
+                            "time": "21:30"
+                        }
+                    ],
+                    "søn, 09/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/60164",
+                            "time": "19:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/60167",
+                            "time": "21:30"
+                        }
+                    ],
+                    "man, 10/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/60171",
+                            "time": "19:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/60173",
+                            "time": "21:30"
+                        }
+                    ],
+                    "tir, 11/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/60177",
+                            "time": "19:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/60182",
+                            "time": "21:30"
+                        }
+                    ],
+                    "ons, 12/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/60188",
+                            "time": "18:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/60192",
+                            "time": "21:15"
+                        }
+                    ]
+                }
+            },
+            "24": {
+                "name": "Nordisk Film Biografer Aarhus C",
+                "id": 24,
+                "showing": {
+                    "tor, 06/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/83399",
+                            "time": "21:30"
+                        }
+                    ],
+                    "fre, 07/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/85829",
+                            "time": "20:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/83408",
+                            "time": "21:15"
+                        }
+                    ],
+                    "lør, 08/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/85832",
+                            "time": "20:15"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/83423",
+                            "time": "21:30"
+                        }
+                    ],
+                    "søn, 09/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/83435",
+                            "time": "21:30"
+                        }
+                    ],
+                    "man, 10/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/83442",
+                            "time": "21:30"
+                        }
+                    ],
+                    "tir, 11/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/83452",
+                            "time": "21:30"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 42,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/movie-posters/mission_impossible_-_dead_rockoning_-_dansk_plakat_1.jpg?h=06156ce5&itok=E2e0_EV_",
+        "release_date": "2023-07-11T22:00:00.000Z",
+        "display_release_date": "12. Jul. 2023"
+    },
+    {
+        "title": "Talk to Me",
+        "imdb_link": "tt10638522",
+        "imdb_rating": 7.4,
+        "cinemas": {
+            "55": {
+                "name": "Øst for Paradis",
+                "id": 55,
+                "showing": {
+                    "søn, 19/11": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5327",
+                            "time": "14:00"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 169,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/2023-07/talktomeplakat.jpg?h=fbedadb7&itok=8bPmp0Ix",
+        "release_date": "2023-08-02T22:00:00.000Z",
+        "display_release_date": "03. Aug. 2023"
+    },
+    {
+        "title": "Kolibrien",
+        "imdb_link": "tt14589916",
+        "imdb_rating": 6.5,
+        "cinemas": {
+            "55": {
+                "name": "Øst for Paradis",
+                "id": 55,
+                "showing": {
+                    "søn, 22/10": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5333",
+                            "time": "14:00"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 170,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/movie-posters/kolibrien_-_dansk_plakat_3.jpg?h=1b2f3108&itok=klpIB-G2",
+        "release_date": "2023-08-02T22:00:00.000Z",
+        "display_release_date": "03. Aug. 2023"
+    },
+    {
+        "title": "God Is a Bullet",
+        "imdb_link": "tt1427070",
+        "imdb_rating": "?",
+        "cinemas": {
+            "55": {
+                "name": "Øst for Paradis",
+                "id": 55,
+                "showing": {
+                    "søn, 17/12": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5349",
+                            "time": "14:00"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 172,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/movie-posters/godisabullet_mislabel.jpg?h=7881f276&itok=tC6LisK6",
+        "release_date": "2023-08-02T22:00:00.000Z",
+        "display_release_date": "03. Aug. 2023"
+    },
+    {
+        "title": "Greatest Days",
+        "imdb_link": "tt12208980",
+        "imdb_rating": 6.1,
+        "cinemas": {
+            "55": {
+                "name": "Øst for Paradis",
+                "id": 55,
+                "showing": {
+                    "tor, 06/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54666",
+                            "time": "21:00"
+                        }
+                    ],
+                    "fre, 07/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54667",
+                            "time": "21:00"
+                        }
+                    ],
+                    "lør, 08/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54668",
+                            "time": "21:00"
+                        }
+                    ],
+                    "søn, 09/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54670",
+                            "time": "21:00"
+                        }
+                    ],
+                    "man, 10/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54672",
+                            "time": "21:00"
+                        }
+                    ],
+                    "tir, 11/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54673",
+                            "time": "21:00"
+                        }
+                    ],
+                    "ons, 12/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/54675",
+                            "time": "21:00"
+                        }
+                    ],
+                    "ons, 19/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5391",
+                            "time": "18:45"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 175,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/movie-posters/greatest_days_-_poster.jpg?h=383387f8&itok=9KLvcqtk",
+        "release_date": "2023-08-09T22:00:00.000Z",
+        "display_release_date": "10. Aug. 2023"
+    },
+    {
+        "title": "Felix og den skjulte skat",
+        "imdb_link": "tt11231280",
+        "imdb_rating": 5.3,
+        "cinemas": {
+            "55": {
+                "name": "Øst for Paradis",
+                "id": 55,
+                "showing": {
+                    "ons, 12/07": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5547",
+                            "time": "19:30"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 185,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/movie-posters/felix_-_dansk_plakat.jpg?h=7881f276&itok=qFxZQswT",
+        "release_date": "2023-08-23T22:00:00.000Z",
+        "display_release_date": "24. Aug. 2023"
+    },
+    {
+        "title": "Madeleines Paris",
+        "imdb_link": "tt14586118",
+        "imdb_rating": 6.9,
+        "cinemas": {
+            "55": {
+                "name": "Øst for Paradis",
+                "id": 55,
+                "showing": {
+                    "tir, 01/08": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/5585",
+                            "time": "18:30"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 188,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/2023-06/madeleinesparisplakat.jpg?h=7881f276&itok=-ayH4JKs",
+        "release_date": "2023-09-27T22:00:00.000Z",
+        "display_release_date": "28. Sep. 2023"
+    },
+    {
+        "title": "The First Slam Dunk",
+        "imdb_link": "tt15242330",
+        "imdb_rating": 8.4,
+        "cinemas": {
+            "12": {
+                "name": "CinemaxX Aarhus",
+                "id": 12,
+                "showing": {
+                    "tir, 08/08": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/12629",
+                            "time": "18:00"
+                        }
+                    ],
+                    "tor, 10/08": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/12631",
+                            "time": "18:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/12663",
+                            "time": "20:10"
+                        }
+                    ],
+                    "fre, 11/08": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/12633",
+                            "time": "18:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/12665",
+                            "time": "20:10"
+                        }
+                    ],
+                    "lør, 12/08": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/12635",
+                            "time": "15:10"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/12667",
+                            "time": "18:00"
+                        }
+                    ],
+                    "søn, 13/08": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/12637",
+                            "time": "15:10"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/12669",
+                            "time": "18:00"
+                        }
+                    ],
+                    "man, 14/08": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/12639",
+                            "time": "18:00"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/12670",
+                            "time": "20:10"
+                        }
+                    ],
+                    "tir, 15/08": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/12641",
+                            "time": "15:10"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/12672",
+                            "time": "18:00"
+                        }
+                    ],
+                    "ons, 16/08": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/12643",
+                            "time": "15:10"
+                        },
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/12674",
+                            "time": "18:00"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 385,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/2023-07/thefirstslamdunk_poster.jpg?h=7881f276&itok=3S_Mb1_I",
+        "release_date": "2023-08-09T22:00:00.000Z",
+        "display_release_date": "10. Aug. 2023"
+    },
+    {
+        "title": "Anden akt",
+        "imdb_link": "tt15216170",
+        "imdb_rating": 6.7,
+        "cinemas": {
+            "55": {
+                "name": "Øst for Paradis",
+                "id": 55,
+                "showing": {
+                    "ons, 23/08": [
+                        {
+                            "link": "https://kino.dk/ticketflow/showtimes/69612",
+                            "time": "10:15"
+                        }
+                    ]
+                }
+            }
+        },
+        "id": 388,
+        "poster": "https://api.kino.dk/sites/kino.dk/files/styles/isg_focal_point_348_522/public/2023-06/andenakt_poster.jpg?h=7881f276&itok=w69XYx49",
+        "release_date": "2023-08-09T22:00:00.000Z",
+        "display_release_date": "10. Aug. 2023"
+    }
+]

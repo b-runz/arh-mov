@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movies</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <style>
+        .cinema-showings {
+            list-style: none;
+            padding: 0;
+        }
+
+        .cinema-row {
+            flex-wrap: wrap;
+            margin-bottom: 10px;
+        }
+
+        .cinema-name {
+            flex-basis: 100%;
+            font-weight: bold;
+        }
+
+        .showing-dates {
+            display: flex;
+            flex-wrap: wrap;
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        .showing-date {
+            flex-basis: 15%;
+            font-weight: bold;
+            margin-bottom: 10px;
+            margin-right: 10px;
+            background-color: #f5f5f5;
+            border: 1px solid #ccc;
+            padding: 10px;
+        }
+
+        .showing-times {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        .showing-time {
+            margin-bottom: 5px;
+        }
+
+        a {
+            color: black;
+            /* Set link color to black */
+        }
+
+        a:visited {
+            color: red;
+            /* Set visited link color to red */
+        }
+    </style>
+    <script src="https://unpkg.com/vue@3.1.1/dist/vue.global.prod.js"></script>
+    <script src="https://unpkg.com/vue-router@4.2.4/dist/vue-router.global.prod.js"></script>
+
+
+</head>
+
+<div id="app" class="container mt-3">
+    <router-view></router-view>
+</div>
+
+<script>
+    const { createApp } = Vue;
+
+    let movies = [];
+
+    const MovieList = {
+        template: `
+        <div>
+  <div class="row">
+    <div class="col-12">
+      <h1 class="text-center">Movies</h1>
+    </div>
+  </div>
+  <div v-if="movies.length === 0" class="row mt-3">
+    <div class="col-12 text-center">
+      <p>Loading...</p>
+    </div>
+  </div>
+  <div v-else>
+    <div v-for="movie in movies" :key="movie.id" class="row mt-3">
+      <div class="col-3">
+        <img :src="movie.poster" class="img-fluid" alt="Movie Poster">
+      </div>
+      <div class="col-9">
+        <h2>
+          <router-link :to="'/movies/' + movie.id">{{ movie.title }}</router-link>
+        </h2>
+        <p>
+          <a :href="'https://www.imdb.com/title/' + movie.imdb_link" target="_blank"> Rating: {{ movie.imdb_rating }}
+          </a>
+        </p>
+        <p>Release Date: {{ movie.display_release_date }}</p>
+        <div class="mt-3">
+          <button @click="toggleCinemas(movie.id)" class="btn btn-primary" v-if="!unfoldedCinemas.includes(movie.id)"> Show Cinemas <i class="bi bi-arrow-down"></i>
+          </button>
+          <button @click="toggleCinemas(movie.id)" class="btn btn-primary" v-else> Hide Cinemas <i class="bi bi-arrow-up"></i>
+          </button>
+          <div v-if="unfoldedCinemas.includes(movie.id)">
+            <ul class="cinema-showings">
+              <li v-for="(cinema, cinemaId) in movie.cinemas" :key="cinemaId" class="cinema-row">
+                <div class="cinema-name">{{ cinema.name }}</div>
+                <ul class="showing-dates">
+                  <li v-for="(showing, date) in cinema.showing" :key="date" class="showing-date">
+                    {{ date }}
+                    <ul class="showing-times">
+                      <li v-for="show in showing" :key="show.link" class="showing-time">
+                        <a :href="show.link">{{ show.time }}</a>
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+  `,
+        data() {
+            return {
+                movies,
+                unfoldedCinemas: [] // To track unfolded cinemas
+            };
+        },
+        created() {
+            this.fetchMovies();
+        },
+        methods: {
+            toggleCinemas(movieId) {
+                if (this.unfoldedCinemas.includes(movieId)) {
+                    // If the movie's cinemas are already unfolded, remove it from the unfoldedCinemas array
+                    this.unfoldedCinemas = this.unfoldedCinemas.filter(id => id !== movieId);
+                } else {
+                    // If the movie's cinemas are not unfolded, add it to the unfoldedCinemas array
+                    this.unfoldedCinemas.push(movieId);
+                }
+            },
+            async fetchMovies() {
+                try {
+                    const response = await fetch('movies.json');
+                    if (!response.ok) {
+                        throw new Error('Failed to fetch movies');
+                    }
+                    this.movies = await response.json();
+                    movies = this.movies;
+                } catch (error) {
+                    console.error(error);
+                }
+            }
+        }
+    };
+
+    const MovieDetails = {
+        template: `
+    <div>
+      <div v-if="movies.length === 0" class="row mt-3">
+        <div class="col-12 text-center">
+          <p>Loading...</p>
+        </div>
+      </div>
+      <div v-else>
+        <div class="row">
+          <div class="col-12">
+            <h1 class="text-center">{{ movie.title }}</h1>
+          </div>
+        </div>
+        <div class="row mt-3">
+          <div class="col-3">
+            <img :src="movie.poster" class="img-fluid" alt="Movie Poster">
+          </div>
+          <div class="col-9">
+            <p>Rating: {{ movie.imdb_rating }}</p>
+            <div class="mt-3">
+              <div v-if="Object.keys(movie.cinemas).length > 0">
+                <ul class="cinema-showings">
+                  <li v-for="(cinema, cinemaId) in movie.cinemas" :key="cinemaId" class="cinema-row">
+                    <div class="cinema-name">{{ cinema.name }}</div>
+                    <ul class="showing-dates">
+                      <li v-for="(showing, date) in cinema.showing" :key="date" class="showing-date">
+                        {{ date }}
+                        <ul class="showing-times">
+                          <li v-for="show in showing" :key="show.link" class="showing-time">
+                            <a :href="show.link">{{ show.time }}</a>
+                          </li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </div>
+              <div v-else>
+                <p>No cinemas available for this movie.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  `,
+        props: ['id'],
+        data() {
+            return {
+                movies: [],
+                movie: {}
+            }
+        },
+        created() {
+            this.fetchMovieDetails();
+        },
+        methods: {
+            async fetchMovies() {
+                if (movies.length == 0) {
+                    try {
+                        const response = await fetch('movies.json');
+                        if (!response.ok) {
+                            throw new Error('Failed to fetch movies');
+                        }
+                        return await response.json();
+                    } catch (error) {
+                        console.error(error);
+                    }
+                }
+                return movies;
+            },
+            async fetchMovieDetails() {
+                const id = this.id;
+                this.movies = await this.fetchMovies();
+                movies = this.movies;
+                this.movie = movies.find(movie => movie.id == id);
+                window.scrollTo({
+                    top: 0,
+                    left: 0,
+                    behavior: 'instant',
+                });
+            }
+        }
+    };
+    const routes = [
+        {
+            path: '/movies/:id',
+            component: MovieDetails,
+            props: true
+        },
+        {
+            path: '/',
+            component: MovieList
+        }
+    ];
+
+    const router = VueRouter.createRouter({
+        history: VueRouter.createWebHashHistory(),
+        routes
+    });
+
+    const app = createApp({});
+    app.use(router);
+    app.mount('#app');
+</script>
