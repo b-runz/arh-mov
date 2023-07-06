@@ -5,8 +5,7 @@
   "main": "src/index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "html-minifier-terser --file-ext html --input-dir src --output-dir dist --collapse-whitespace --remove-comments --minify-js true --minify-css true",
-    "webpack": "webpack"
+    "build": "html-minifier-terser --file-ext html --input-dir src --output-dir dist --collapse-whitespace --remove-comments --minify-js true --minify-css true"
   },
   "author": "",
   "license": "ISC",
