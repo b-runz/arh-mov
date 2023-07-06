@@ -152,7 +152,7 @@
             },
             async fetchMovies() {
                 try {
-                    const response = await fetch('movies.json');
+                    const response = await fetch('api/GetMovies');
                     if (!response.ok) {
                         throw new Error('Failed to fetch movies');
                     }
@@ -226,7 +226,7 @@
             async fetchMovies() {
                 if (movies.length == 0) {
                     try {
-                        const response = await fetch('movies.json');
+                        const response = await fetch('api/GetMovies');
                         if (!response.ok) {
                             throw new Error('Failed to fetch movies');
                         }
