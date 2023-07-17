@@ -42,8 +42,7 @@ async function processData(data: any): Promise<Record<number, Movie>> {
             if ("label" in data_movie.content) {
                 title = data_movie.content.label;
             }
-            if(title == "")
-            {
+            if (title == "") {
                 continue;
             }
             let release_date = moment('1900-01-01', 'YYYY-MM-DD')
@@ -81,7 +80,49 @@ async function processData(data: any): Promise<Record<number, Movie>> {
             }
             let showings: Record<string, Showing[]> = {}
 
+            const noTextList = [
+                {
+                    'textToReplace': 'Helaften',
+                    'textToShow': ''
+                },
+                {
+                    'textToReplace': 'Undertekster',
+                    'textToShow': ''
+                },
+                {
+                    'textToReplace': 'IMAX Helaften',
+                    'textToShow': 'IMAX'
+                },
+                {
+                    'textToReplace': 'Dansk tale',
+                    'textToShow': 'Danish'
+                },
+                {
+                    'textToReplace': 'Engelsk tale',
+                    'textToShow': 'English'
+                },
+                {
+                    'textToReplace': 'Biografklub Danmark',
+                    'textToShow': ''
+                },
+                {
+                    'textToReplace': '2D',
+                    'textToShow': ''
+                }
+            ]
+
             for (let data_version of data_movie['versions']) {
+                let appendText = ''
+                if('label' in data_version){
+                    for(let replaceTextLabel of noTextList){
+                        if(replaceTextLabel['textToReplace'] == data_version['label']){
+                            if(replaceTextLabel['textToShow'] != ''){
+                                appendText = ' - ' + replaceTextLabel['textToShow']
+                            }
+                        }
+                    }
+                }
+
                 for (let data_showing of data_version['dates']) {
                     let date = data_showing['date']
                     for (let data_time of data_showing['showtimes']) {
@@ -90,7 +131,7 @@ async function processData(data: any): Promise<Record<number, Movie>> {
                         }
                         showings[date].push({
                             link: "https://kino.dk/ticketflow/showtimes/" + data_time['id'],
-                            time: data_time['time']
+                            time: data_time['time'] + appendText
                         })
                     }
                 }
