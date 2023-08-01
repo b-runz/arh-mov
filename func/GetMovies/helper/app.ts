@@ -3,6 +3,7 @@ import moment from "moment";
 import { Movie } from "../model/movie";
 import { Showing } from "../model/showing";
 import axios, { AxiosResponse } from 'axios';
+import { createHash } from 'node:crypto'
 
 export async function loadAndTransformJSON() {
     try {
@@ -68,7 +69,7 @@ async function processData(data: any): Promise<Record<number, Movie>> {
                     imdb_link: imdb_link,
                     imdb_rating: imdb_rating,
                     cinemas: {},
-                    id: id,
+                    id: md5(title),
                     poster: poster_uri,
                     release_date: release_date,
                     display_release_date: release_date.locale("en").format('DD. MMM. YYYY')
@@ -82,43 +83,29 @@ async function processData(data: any): Promise<Record<number, Movie>> {
 
             const noTextList = [
                 {
-                    'textToReplace': 'Helaften',
-                    'textToShow': ''
-                },
-                {
-                    'textToReplace': 'Undertekster',
-                    'textToShow': ''
-                },
-                {
-                    'textToReplace': 'IMAX Helaften',
+                    'textToReplace': 'IMAX',
                     'textToShow': 'IMAX'
                 },
                 {
-                    'textToReplace': 'Dansk tale',
+                    'textToReplace': '3D',
+                    'textToShow': '3D'
+                },
+                {
+                    'textToReplace': 'Dansk',
                     'textToShow': 'Danish'
                 },
                 {
-                    'textToReplace': 'Engelsk tale',
+                    'textToReplace': 'Engelsk',
                     'textToShow': 'English'
-                },
-                {
-                    'textToReplace': 'Biografklub Danmark',
-                    'textToShow': ''
-                },
-                {
-                    'textToReplace': '2D',
-                    'textToShow': ''
                 }
             ]
 
             for (let data_version of data_movie['versions']) {
                 let appendText = ''
-                if('label' in data_version){
-                    for(let replaceTextLabel of noTextList){
-                        if(replaceTextLabel['textToReplace'] == data_version['label']){
-                            if(replaceTextLabel['textToShow'] != ''){
-                                appendText = ' - ' + replaceTextLabel['textToShow']
-                            }
+                if ('label' in data_version) {
+                    for (let replaceTextLabel of noTextList) {
+                        if (data_version['label'].includes(replaceTextLabel['textToReplace'])) {
+                            appendText = ' - ' + replaceTextLabel['textToShow']
                         }
                     }
                 }
@@ -188,4 +175,8 @@ function sortMoviesByPremiereDate(movies: Record<number, Movie>): Record<number,
     });
 
     return sortedMovies
+}
+
+function md5(content) {
+    return createHash('md5').update(content).digest('hex')
 }
