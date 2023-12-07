@@ -2,6 +2,7 @@
 import moment from "moment";
 import { Movie } from "../model/movie";
 import { Showing } from "../model/showing";
+import { getRating, RatingData } from "./imdb";
 import axios, { AxiosResponse } from 'axios';
 import { createHash } from 'node:crypto'
 
@@ -76,7 +77,7 @@ async function processData(data: any): Promise<Record<number, Movie>> {
                 }
 
                 if (imdb_link != "") {
-                    promises.push(get_imdb_rating(id, axios.get("https://imdb-api.projects.thetuhin.com/title/" + imdb_link)))
+                    promises.push(getRating(imdb_link, id))
                 }
             }
             let showings: Record<string, Showing[]> = {}
@@ -135,26 +136,11 @@ async function processData(data: any): Promise<Record<number, Movie>> {
         }
     }
 
-    const result: Record<number, Record<number, AxiosResponse>> = await Promise.all(promises);
-    for (const counter in result) {
-        for (const id in result[counter]) {
-            const axiosResponse = result[counter][id]
-            if (axiosResponse != null) {
-                movies[id].imdb_rating = axiosResponse.data['rating']['star']
-            }
-        }
+    const result: RatingData[] = await Promise.all(promises);
+    for(const rating of result){
+        movies[rating.id].imdb_rating = rating.rating
     }
     return sortMoviesByPremiereDate(movies);
-}
-
-async function get_imdb_rating(id: number, axiosPromise: Promise<AxiosResponse>): Promise<Record<number, AxiosResponse>> {
-    try {
-        const response = await axiosPromise;
-        return { [id]: response }
-    }
-    catch (error) {
-        return { [id]: null }
-    }
 }
 
 function sortMoviesByPremiereDate(movies: Record<number, Movie>): Record<number, Movie> {
