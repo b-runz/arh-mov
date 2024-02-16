@@ -1,10 +1,10 @@
-import { AzureFunction, Context, HttpRequest } from "@azure/functions"
+import { app, HttpRequest, HttpResponseInit, InvocationContext } from "@azure/functions";
 import { loadAndTransformJSON } from "./helper/app";
-import NodeCache from 'node-cache';
+const NodeCache = require('node-cache');
 
 const cache = new NodeCache({ stdTTL: 86400 });
 
-const httpTrigger: AzureFunction = async function (context: Context, req: HttpRequest): Promise<void> {
+export async function GetMovies(request: HttpRequest, context: InvocationContext): Promise<HttpResponseInit> {
     const currentDate = new Date().toDateString();
 
     // Check if the data is already in cache
@@ -17,14 +17,14 @@ const httpTrigger: AzureFunction = async function (context: Context, req: HttpRe
         cache.set(currentDate, data);
     }    
 
-    context.res = {
+    return {
         // status: 200, /* Defaults to 200 */
-        body: data,
-        headers: {
-            "Content-Type": "application/json",
-        }
+        jsonBody: data
     };
 
 };
-
-export default httpTrigger;
+app.http('GetMovies', {
+    methods: ['GET', 'POST'],
+    authLevel: 'anonymous',
+    handler: GetMovies
+});

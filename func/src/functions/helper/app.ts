@@ -1,5 +1,5 @@
 
-import moment from "moment";
+const moment = require('moment');
 import { Movie } from "../model/movie";
 import { Showing } from "../model/showing";
 import { getRating, RatingData } from "./imdb";
