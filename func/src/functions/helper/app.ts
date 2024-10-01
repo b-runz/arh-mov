@@ -26,7 +26,7 @@ export async function loadAndTransformJSON() {
     }
 }
 
-async function processData(data: any): Promise<Record<number, Movie>> {
+async function processData(data: any): Promise<Movie[]> {
     // Perform any further processing or rendering with the transformed data
     let movies: Record<number, Movie> = {}
     let promises = []
@@ -48,7 +48,7 @@ async function processData(data: any): Promise<Record<number, Movie>> {
                 continue;
             }
             let release_date = moment('1900-01-01', 'YYYY-MM-DD')
-            if ("field_premiere" in data_movie.content) {
+            if ("field_premiere" in data_movie.content && data_movie.content.field_premiere) {
                 release_date = moment(data_movie.content.field_premiere, 'D. MMM YYYY');
             }
 
@@ -143,24 +143,27 @@ async function processData(data: any): Promise<Record<number, Movie>> {
     return sortMoviesByPremiereDate(movies);
 }
 
-function sortMoviesByPremiereDate(movies: Record<number, Movie>): Record<number, Movie> {
-    const currentDate = moment(); // Get the current date
+function sortMoviesByPremiereDate(movies: Record<number, Movie>): Movie[] {
+    const now = moment();
 
-    const movieArray = Object.values(movies);
+    // Split movies into two arrays based on release date
+    const beforeNow: Movie[] = [];
+    const afterNow: Movie[] = [];
 
-    const sortedMovies = movieArray.sort((a, b) => {
-        if (a.release_date.isAfter(currentDate) && b.release_date.isAfter(currentDate)) {
-            return 0; // Both movies are released after the current date
-        } else if (a.release_date.isAfter(currentDate)) {
-            return 1; // Place movie with a after-date at the end
-        } else if (b.release_date.isAfter(currentDate)) {
-            return -1; // Place movie with b after-date at the end
-        } else {
-            return b.release_date.diff(a.release_date); // Sort by release date in descending order
-        }
+    Object.values(movies).forEach(movie => {
+      if (movie.release_date.isBefore(now)) {
+        beforeNow.push(movie);
+      } else {
+        afterNow.push(movie);
+      }
     });
 
-    return sortedMovies
+    // Sort both arrays by release date (most recent first)
+    beforeNow.sort((a, b) => b.release_date.diff(a.release_date));
+    afterNow.sort((a, b) => b.release_date.diff(a.release_date));
+
+    // Merge sorted arrays into one
+    return [...beforeNow, ...afterNow];
 }
 
 function md5(content) {
