@@ -3,10 +3,9 @@ import * as cheerio from 'cheerio';
 
 export interface RatingData {
     rating: string;
-    id: string;
 }
 
-export async function getRating(tt:string, id:string) : Promise<RatingData> {
+export async function getRating(tt:string) : Promise<string> {
     const imdbUrl = `https://www.imdb.com/title/${tt}/`
 
     const headers = {
@@ -19,7 +18,7 @@ export async function getRating(tt:string, id:string) : Promise<RatingData> {
         response = await axios.get(imdbUrl, { headers });
     }
     catch(error){
-        return {rating: '?', id: id}
+        return '?'
     }
     const html = response.data;
 
@@ -27,5 +26,5 @@ export async function getRating(tt:string, id:string) : Promise<RatingData> {
 
     const rating = $('div[data-testid="hero-rating-bar__aggregate-rating__score"]:first span:nth-child(1)').text();
 
-    return {rating: rating.trim(), id: id};
+    return rating.trim();
 }

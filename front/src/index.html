@@ -77,9 +77,9 @@
 </div>
 
 <script>
-  const { createApp } = Vue;
+  const { createApp,ref } = Vue;
 
-  let movies = [];
+  let movies = ref([]);
 
   const MovieList = {
     template: `
@@ -140,6 +140,7 @@
     data() {
       return {
         movies,
+        moviesForRating: [],
         unfoldedCinemas: [] // To track unfolded cinemas
       };
     },
@@ -156,16 +157,40 @@
           this.unfoldedCinemas.push(movieId);
         }
       },
+      delay(ms) {
+        return new Promise(resolve => setTimeout(resolve, ms)); // Creates a promise-based delay
+      },
       async fetchMovies() {
         try {
-          const response = await fetch('api/GetMovies');
+          const response = await fetch('/api/GetMovies');
           if (!response.ok) {
             throw new Error('Failed to fetch movies');
           }
           this.movies = await response.json();
           movies = this.movies;
+          this.moviesForRating = movies;
+
         } catch (error) {
           console.error(error);
+        }
+      },
+
+      async fetchRatingForMovie(tt) {
+        const response = await fetch(`/api/GetIMDbRating?ttId=${tt}`);
+        const data = await response.json();
+        return data.rating;
+      }
+    },
+    watch: {
+      moviesForRating: {
+        async handler(newMoviesForRating) {
+          for (const movie of newMoviesForRating) {
+            let rating = await this.fetchRatingForMovie(movie.imdb_link);
+            const unratedMovie = this.movies.find(m => m.id === movie.id);
+            movie.imdb_rating = rating;
+            this.delay(200)
+            
+          }
         }
       }
     }

@@ -2,7 +2,6 @@
 const moment = require('moment');
 import { Movie } from "../model/movie";
 import { Showing } from "../model/showing";
-import { getRating, RatingData } from "./imdb";
 import axios, { AxiosResponse } from 'axios';
 import { createHash } from 'node:crypto'
 
@@ -75,10 +74,6 @@ async function processData(data: any): Promise<Movie[]> {
                     release_date: release_date,
                     display_release_date: release_date.locale("en").format('DD. MMM. YYYY')
                 }
-
-                if (imdb_link != "") {
-                    promises.push(getRating(imdb_link, id))
-                }
             }
             let showings: Record<string, Showing[]> = {}
 
@@ -134,11 +129,6 @@ async function processData(data: any): Promise<Movie[]> {
             }
 
         }
-    }
-
-    const result: RatingData[] = await Promise.all(promises);
-    for(const rating of result){
-        movies[rating.id].imdb_rating = rating.rating
     }
     return sortMoviesByPremiereDate(movies);
 }
