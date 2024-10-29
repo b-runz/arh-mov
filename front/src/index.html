@@ -255,9 +255,8 @@
     },
     methods: {
       async fetchMovies() {
-        if (movies.length == 0) {
-          try {
-            const response = await fetch('api/GetMovies');
+        try {
+            const response = await fetch('/api/GetMovies');
             if (!response.ok) {
               throw new Error('Failed to fetch movies');
             }
@@ -265,14 +264,20 @@
           } catch (error) {
             console.error(error);
           }
-        }
         return movies;
+      },
+      async fetchRatingForMovie(tt) {
+        const response = await fetch(`/api/GetIMDbRating?ttId=${tt}`);
+        const data = await response.json();
+        return data.rating;
       },
       async fetchMovieDetails() {
         const id = this.id;
         this.movies = await this.fetchMovies();
         movies = this.movies;
         this.movie = movies.find(movie => movie.id == id);
+        let rating = await this.fetchRatingForMovie(this.movie.imdb_link);
+        this.movie.imdb_rating = rating;
         window.scrollTo({
           top: 0,
           left: 0,
