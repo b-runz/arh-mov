@@ -9,11 +9,12 @@ export async function GetMovies(request: HttpRequest, context: InvocationContext
 
     // Check if the data is already in cache
     const cachedData = cache.get(currentDate);
-    let data = {}
-    if(cachedData){
+    let data;
+    
+    if (cachedData) {
         data = cachedData;
-    } else{
-        let data = await loadAndTransformJSON();
+    } else {
+        data = await loadAndTransformJSON();
         cache.set(currentDate, data);
     }    
 
