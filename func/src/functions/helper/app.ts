@@ -11,7 +11,7 @@ export async function loadAndTransformJSON() {
             params: {
                 format: 'json',
                 region: 'content',
-                city: '24-41-70-55',
+                city: '94-70-55-79',
                 sort: 'alphabetical'
             }
         });
